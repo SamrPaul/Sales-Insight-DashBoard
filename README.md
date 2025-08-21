@@ -54,19 +54,18 @@ and success criteria  of our project.
 #### Dashboard KPI Page
 
 -------
- <img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20KPI.png" class="center">
+ <img src="https://github.com/SamrPaul/Sales-Insight-DashBoard/blob/main/Screenshot%202025-08-21%20124801.png" class="center">
  
- #### Dashboard Performance Insights
+ #### Dashboard analysis Revenue from Mumbai based customer
 
 -------
- <img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20Performance%20Insights.png" class="center">
- 
+ <img src="https://github.com/SamrPaul/Sales-Insight-DashBoard/blob/main/Screenshot%202025-08-21%20124838.png" class="center">
 
- #### Dashboard Profit Analysis
+ #### Dashboard showing what has the revenue been from E-Commerce
  
  -----------
  
-  <img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20Profit%20Analysis.png" class="center">
+  <img src="https://github.com/SamrPaul/Sales-Insight-DashBoard/blob/main/Screenshot%202025-08-21%20124907.png" class="center">
 
 
 
