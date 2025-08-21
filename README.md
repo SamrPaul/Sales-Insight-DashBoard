@@ -3,19 +3,11 @@
 ## Sales insights project Powerbi Dashboard
 
 
-## Problem statement
+## Problem statement: Developing a Sales Insight Dashboard for easy retrieval of data.
 
-AtliQ hardware is a company which delivers computer hardware & peripheral 
-Manufacturers to his clients, which has several branches throughout India. The sales director of the company is facing a lot of
-issues in terms of understanding how the business is performing and what are all the problem company is
-facing currently as the sales are not as expected and declining gradually. And whenever he calls the regional managers
-to get the current status of the sales and market, as a human behaviour, these people 
-Humans are not comfortable in consuming numbers from excel files, which is obvious reason for the frustration.
+Hypothetical company: AtliQ hardware is a company which delivers computer hardware & peripheral 
+Manufacturers to his clients, which has several branches throughout India. 
 
-## Solution
-
-Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for converting the data into 
-visual representation to make data driven decisions. So, he hired a team of data people to complete this task.
 
 ### AIMS Grid
 
@@ -27,19 +19,14 @@ and success criteria  of our project.
 
 ## Steps Followed in this project
 
-1. Learned about AIMS grid for project planning.
-2. Used MySQL for retrieving the data from the database into Power BI.
-3. Data Cleaning in power query.
-4. Performed ETL process (Extract Transform and Load)
-5. Created measure for needs and used them for creating visuals in PowerBi.
-6. In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same
-7. Data Validation
-8. Data Modelling and Visualization.
 
-## Major Changes/ Customizations Made
-
-1.Solved the ‘(blank)’ problem for the products section by deleting the original products table and adding the self-modified products table (where I have added the       Products ranging from Prod280 to Prod339 with their product type (random type- b/w ‘Own Brand’ and ‘Distribution’).
-2.Merged the original modified ‘sales_transaction’ table with the new ‘sales_transaction’ table having profit margin, cost price, etc.
+1. Used MySQL for retrieving the data from the database into Power BI.
+2. Data Cleaning in power query.
+3. Performed ETL process (Extract Transform and Load)
+4. Created measure for needs and used them for creating visuals in PowerBi.
+5. In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same
+6. Data Validation
+7. Data Modelling and Visualization.
 
 ###  Insights
   
